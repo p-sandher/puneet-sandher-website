@@ -94,11 +94,11 @@ header{
 
 @media screen and (max-width: 415px) {
     header{
-        height: 130vh;
+        height: 100vh;
     }
 
     .me{
-        height: 50000vh;
+        height: 30000vh;
         background: linear-gradient(var(--color-primary),transparent);
     }
 
@@ -110,11 +110,11 @@ header{
 
 @media screen and (max-width: 395px) {
     header{
-        height: 155vh;
+        height: 145vh;
     }
 
     .me{
-        height: 50000vh;
+        height: 30000vh;
         background: linear-gradient(var(--color-primary),transparent);
 
     }
