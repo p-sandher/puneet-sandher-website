@@ -92,13 +92,31 @@ header{
     }
 }
 
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 415px) {
     header{
-        height: 170vh;
+        height: 100vh;
     }
 
     .me{
         height: 30000vh;
+        background: linear-gradient(var(--color-primary),transparent);
+    }
+
+    .header__socials,
+    .scroll__down {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 380px) {
+    header{
+        height: 145vh;
+    }
+
+    .me{
+        height: 30000vh;
+        background: linear-gradient(var(--color-primary),transparent);
+
     }
 
     .header__socials,
