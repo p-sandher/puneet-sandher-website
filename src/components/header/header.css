@@ -84,15 +84,21 @@ header{
         height: 130vh;
     }
 
+    
+
     .header__socials,
     .scroll__down {
         display: none;
     }
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 350px) {
     header{
-        height: 100vh;
+        height: 170vh;
+    }
+
+    .me{
+        height: 30000vh;
     }
 
     .header__socials,
