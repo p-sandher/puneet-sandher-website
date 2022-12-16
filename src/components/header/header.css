@@ -92,7 +92,7 @@ header{
 
 @media screen and (max-width: 300px) {
     header{
-        height: 180vh;
+        height: 190vh;
     }
 
     .header__socials,
