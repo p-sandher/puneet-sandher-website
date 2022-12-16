@@ -36,7 +36,7 @@ const data = [
     id: 5,
     image: IMG5,
     title: 'Personal Portfolio Website',
-    github: 'https://github.com/p-sandher/Personal-Portfolio-Website',
+    github: 'https://github.com/p-sandher/puneet-sandher-website',
   }
 ]
 
