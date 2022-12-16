@@ -98,7 +98,7 @@ header{
     }
 
     .me{
-        height: 30000vh;
+        height: 50000vh;
         background: linear-gradient(var(--color-primary),transparent);
     }
 
