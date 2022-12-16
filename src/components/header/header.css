@@ -110,7 +110,7 @@ header{
 
 @media screen and (max-width: 395px) {
     header{
-        height: 145vh;
+        height: 155vh;
     }
 
     .me{
