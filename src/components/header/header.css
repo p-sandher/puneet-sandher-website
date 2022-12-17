@@ -68,6 +68,8 @@ header{
 }
 
 
+/* Media Queries Medium Devices */
+
 @media screen and (max-width: 1024px) {
     header{
         height: 68vh;
@@ -77,44 +79,8 @@ header{
 
 /* Media Queries Small Devices */
 
-@media screen and (max-width: 820px) {
-    header{
-        height: 80vh;
-    }
-
-    .header__socials,
-    .scroll__down {
-        display: none;
-    }
-}
-
-@media screen and (max-width: 550px) {
-    header{
-        height: 140vh;
-    }
-
-    .header__socials,
-    .scroll__down {
-        display: none;
-    }
-}
-
-@media screen and (max-width: 420px) {
-    header{
-        height: 120vh;
-    }
-
-    .header__socials,
-    .scroll__down,
-    .me {
-        display: none;
-    }
-}
-
-@media screen and (max-width: 380px) {
-    header{
-        height: 150vh;
-    }
+@media screen and (max-width: 600px) {
+    
 
     .header__socials,
     .scroll__down,
