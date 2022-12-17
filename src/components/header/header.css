@@ -105,7 +105,8 @@ header{
     }
 
     .header__socials,
-    .scroll__down {
+    .scroll__down,
+    .me {
         display: none;
     }
 }
@@ -116,7 +117,8 @@ header{
     }
 
     .header__socials,
-    .scroll__down {
+    .scroll__down,
+    .me {
         display: none;
     }
 }
