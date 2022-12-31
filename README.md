@@ -90,8 +90,8 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 ### Built With
 
 * [![React][React.js]][React-url]
-* [![Css][Css.com]][Css-url]
-* [![Html][Html.com]][Html-url]
+* [![Css][Css]][Css-url]
+* [![Html][Html]][Html-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -162,6 +162,8 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 Puneet Sandher -  puneetsandher@gmail.com
 
 Project Link: [https://github.com/p-sandher/puneet-sandher-website](https://github.com/p-sandher/puneet-sandher-website)
+
+Demo Link: [https://p-sandher.github.io/puneet-sandher-website/] (https://p-sandher.github.io/puneet-sandher-website/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
