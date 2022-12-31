@@ -69,6 +69,7 @@ This is a personal portfolio website to showcase my professional experience and 
 
 
 Puneet Sandher -  puneetsandher@gmail.com
+<br />
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 Project Link: [https://github.com/p-sandher/puneet-sandher-website](https://github.com/p-sandher/puneet-sandher-website)
