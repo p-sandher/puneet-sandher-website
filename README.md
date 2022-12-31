@@ -32,7 +32,7 @@
 
   <p align="center">
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the Repo »</strong></a>
+    <a href="https://github.com/p-sandher/puneet-sandher-website"><strong>Explore the Repo »</strong></a>
     <br />
     <br />
     <a href="https://p-sandher.github.io/puneet-sandher-website/">View Website</a>
@@ -86,6 +86,9 @@ Inspiration for design and code taken from the following
 * [EGATOR](https://www.youtube.com/watch?v=G-Cr00UYokU&t=247s&ab_channel=EGATOR)
 * [developedbyed](https://www.youtube.com/watch?v=k-Pi5ZMxHWY&ab_channel=developedbyed)
 * [JavaScriptMastery](https://www.youtube.com/watch?v=3HNyXCPDQ7Q&t=104s&ab_channel=JavaScriptMastery)
+
+ReadME template is from 
+* [othneildrew](https://github.com/othneildrew/Best-README-Template)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
