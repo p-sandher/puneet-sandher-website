@@ -50,10 +50,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://p-sandher.github.io/puneet-sandher-website/)
+[![Website Screen Shot][product-screenshot]](https://p-sandher.github.io/puneet-sandher-website/)
 
-
-
+This is a personal portfolio website to showcase my professional experience and technical skills.
 
 
 ### Built With
@@ -100,7 +99,7 @@ Inspiration for design and code taken from the following
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/puneet-sandher/
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: Website-Preview.png
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
