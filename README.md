@@ -25,13 +25,12 @@
 <br />
 <div align="center">
   <a href="https://github.com/p-sandher/puneet-sandher-website">
-    <img src="puneet-sandher-logo.png" alt="Logo" width="80" height="80">
+    <img src="puneet-sandher-logo.png" alt="Logo" width="200" height="200">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Puneet's Portfolio Website</h3>
 
   <p align="center">
-    project_description
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the Repo »</strong></a>
     <br />
