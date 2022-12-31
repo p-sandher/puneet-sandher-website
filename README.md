@@ -84,10 +84,10 @@ Demo Link: [https://p-sandher.github.io/puneet-sandher-website/] (https://p-sand
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Inspiration taken from the following
-* [](https://www.youtube.com/watch?v=G-Cr00UYokU&t=247s&ab_channel=EGATOR)
-* [](https://www.youtube.com/watch?v=k-Pi5ZMxHWY&ab_channel=developedbyed)
-* [](https://www.youtube.com/watch?v=3HNyXCPDQ7Q&t=104s&ab_channel=JavaScriptMastery)
+Inspiration for design and code taken from the following
+* [EGATOR](https://www.youtube.com/watch?v=G-Cr00UYokU&t=247s&ab_channel=EGATOR)
+* [developedbyed](https://www.youtube.com/watch?v=k-Pi5ZMxHWY&ab_channel=developedbyed)
+* [JavaScriptMastery](https://www.youtube.com/watch?v=3HNyXCPDQ7Q&t=104s&ab_channel=JavaScriptMastery)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
