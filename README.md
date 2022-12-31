@@ -19,15 +19,13 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/p-sandher/puneet-sandher-website">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="puneet-sandher-logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">project_title</h3>
@@ -70,7 +68,9 @@ This is a personal portfolio website to showcase my professional experience and 
 <!-- CONTACT -->
 ## Contact
 
+
 Puneet Sandher -  puneetsandher@gmail.com
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 Project Link: [https://github.com/p-sandher/puneet-sandher-website](https://github.com/p-sandher/puneet-sandher-website)
 
