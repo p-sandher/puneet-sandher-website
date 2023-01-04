@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/puneet-sandher-website/static/css/main.4825e363.css",
-    "main.js": "/puneet-sandher-website/static/js/main.b8103cce.js",
+    "main.css": "/puneet-sandher-website/static/css/main.4e94fbda.css",
+    "main.js": "/puneet-sandher-website/static/js/main.f2eae6fd.js",
     "static/media/library-portfolio.jpeg": "/puneet-sandher-website/static/media/library-portfolio.11bab60c20154295fdd4.jpeg",
     "static/media/website-portfolio.jpeg": "/puneet-sandher-website/static/media/website-portfolio.4b0b04ad6441e91c0deb.jpeg",
     "static/media/stocks-portfolio.jpeg": "/puneet-sandher-website/static/media/stocks-portfolio.cf698c4f010aa0bdadf5.jpeg",
@@ -11,11 +11,11 @@
     "static/media/me-header.png": "/puneet-sandher-website/static/media/me-header.af66b5885e349b819261.png",
     "static/media/Puneet-Sandher-Resume-Dec22.pdf": "/puneet-sandher-website/static/media/Puneet-Sandher-Resume-Dec22.467477611478d71bef66.pdf",
     "index.html": "/puneet-sandher-website/index.html",
-    "main.4825e363.css.map": "/puneet-sandher-website/static/css/main.4825e363.css.map",
-    "main.b8103cce.js.map": "/puneet-sandher-website/static/js/main.b8103cce.js.map"
+    "main.4e94fbda.css.map": "/puneet-sandher-website/static/css/main.4e94fbda.css.map",
+    "main.f2eae6fd.js.map": "/puneet-sandher-website/static/js/main.f2eae6fd.js.map"
   },
   "entrypoints": [
-    "static/css/main.4825e363.css",
-    "static/js/main.b8103cce.js"
+    "static/css/main.4e94fbda.css",
+    "static/js/main.f2eae6fd.js"
   ]
 }
