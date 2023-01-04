@@ -24,7 +24,7 @@ const data = [
     id: 3,
     image: IMG3,
     title: 'OOP TicTacToe with GUI',
-    github: 'https://github.com/p-sandher/OOP-TicTacToe',
+    github: 'https://github.com/p-sandher/Tictactoe-Game-Menu',
   },
   {
     id: 4,
